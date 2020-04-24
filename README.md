@@ -1,4 +1,4 @@
 # Description #
  Image manipulation seems to be a rather popular feature among many image based platforms (I.e, Instagram, Snapchat). Image manipulation can be achieved rather easily by manipulating the rgb colour spectrum. Images are usually represented by dimensions of pixels, and so we can manipulate each individual pixel. Each pixel for a colour image is encoded by three numbers representing the colour of the pixel. The first number is the red value, the second number is the green value, and the third number is the blue value for that individual pixel. Given this structure we can perform manipulations. For example, suppose we want to make a coloured image black and white. This can be done by averaging the values of all three colour numbers for a pixel and replacing each of those colour numbers with the average. Do this for all pixels and voila!
 # Black & White feature (before and after) #
-![](images/fim-a-1.png)
+![](images/fim-a-1.jpg)
